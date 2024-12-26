@@ -63,7 +63,8 @@ python luckyDraw.py
 | /         |  0.413 |  0     |
 | overall   |  1     |  4.071 |
 ## License
-[Apahe License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+[Attribution-NonCommercial 4.0 International
+](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
 
 ## Author
 Software Development Club
