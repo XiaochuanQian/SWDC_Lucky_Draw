@@ -20,7 +20,8 @@ self.prizes = {
 ```bash
 python luckyDraw.py
 ```
-## Numbers Used in Christmas 2024
+## Numbers Used in Christmas Fair 2024
+### All profit are donated to charity
 ### 20 yuan 
 | prize     |   prob |    cost |
 |:----------|-------:|--------:|
