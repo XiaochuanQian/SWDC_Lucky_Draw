@@ -3,7 +3,12 @@
 This is a simple lucky draw program for SWDC Cyber Chirstmas
 ## How to use
 **1. Clone the repository**
+```bash
+git clone https://github.com/XiaochuanQian/SWDC_Lucky_Draw.git
+```
+
 **2. Change the annotated part in ```luckyDraw.py```. All numbers should add up to ```1.0```**
+
     
 ```python
 self.prizes = {
